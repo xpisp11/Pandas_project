@@ -18,3 +18,5 @@ Dale vypracuji analyzu poptavky, tj.:
 7) Identifikace příčin výkyvu poptávky
 8) Analýza poptávky po půjčování kol o víkendech vs. pracovních dnech
 9) Analýza vlivu počasí na poptávku po kolech
+
+![map_availability](https://user-images.githubusercontent.com/84874801/130781161-9e0f8e1f-3ee9-484f-9bd9-a24293ab859e.png)
